@@ -6,3 +6,5 @@ ceci cela
 
 Dans une demi-heure
  
+ 
+ retourner, revenir, rentrer, rendre,
