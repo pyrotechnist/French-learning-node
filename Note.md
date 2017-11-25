@@ -4,3 +4,14 @@ A relative pronoun and dependent clause can follow the demonstrative pronoun. Fo
 
 Celui qui est dans ma poche. — The one that is in my pocket.
 Ceux que je connais. — The ones that I know. / The ones whom I know.
+
+
+au fond de    in the bottom of
+
+regarde en direction de    look toward
+
+dans la direction inverse   in the opposite direction .
+
+Elle est au centre du village.    It is in the center of the village.
+
+Nous nous tournons en direction du nord.    We are turning north.
