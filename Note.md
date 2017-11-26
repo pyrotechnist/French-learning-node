@@ -26,3 +26,17 @@ de+les= des
 à+ les = aux
 
 至于你所说到的  du fromage 中的du 是部分冠词，因为在法语中往往针于某些吃的东西，表示吃时候往往用部分冠词，因为，你所吃的比如说奶酪，你只能吃所有奶酪中的一部分而以。
+
+
+
+Some French expressions don't allow any preceding indirect objects, notably être à, faire attention à, s’habituer à, penser à, revenir à, and tenir à.
+
+Tu fais attention à elle. (Not Tu lui fais...) – You are paying attention to her.
+Il pense à elle. (Not Il lui pense...) – He thinks of her.
+Remember that y can also refer to locations.
+
+J'y vais. — I'm going there.
+Il y était. — He was there.
+
+Aucune d' entre elles them 
+
