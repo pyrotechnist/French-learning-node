@@ -40,3 +40,9 @@ Il y était. — He was there.
 
 Aucune d' entre elles them 
 
+Vous n' allez pas croire ceci this .
+Tu ne vas pas croire ceci .
+
+Il peut compter sur elle .
+
+je ne peux plus le faire
