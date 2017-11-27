@@ -70,3 +70,12 @@ Nous n'avons pas besoin de votre permission ! — We don't need your permission!
 Elle n'a pas à parler. — She doesn't have to speak.
 On n'a pas à manger maintenant. — We don't have to eat right now.
 *To express "must not" in French, use a negation with devoir or il faut.*
+
+
+## Communication  ##
+
+Je suis en contact avec elle .
+
+## Places  ##
+
+Le gâteau est au milieu de la table .
