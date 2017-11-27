@@ -50,4 +50,23 @@ je ne peux plus le faire
 
 ## Abstract-Objects ##
 
-J' ai confiance en l' avenir future
+*Remember that the impersonal expression il faut + infinitive can also express a need or obligation.*
+
+Il faut manger. — It is necessary to eat.
+Il nous faut payer des taxes. — We have to pay taxes.
+
+J' ai confiance en l' avenir 
+
+Il fait des progrès en cuisine .
+
+Quel est ton niveau
+
+Je n' ai pas les moyens d' acheter ça
+
+*Consider the difference between "I don't have to" and "I must not". The former expresses a lack of obligation, while the latter expresses an obligation to avoid an action. In French, to express a lack of obligation, use a negation with avoir besoin de or avoir à.*
+
+Je n'ai pas besoin d'un stylo. — I don't need a pen.
+Nous n'avons pas besoin de votre permission ! — We don't need your permission!
+Elle n'a pas à parler. — She doesn't have to speak.
+On n'a pas à manger maintenant. — We don't have to eat right now.
+*To express "must not" in French, use a negation with devoir or il faut.*
