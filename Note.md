@@ -46,3 +46,8 @@ Tu ne vas pas croire ceci .
 Il peut compter sur elle .
 
 je ne peux plus le faire
+
+
+## Abstract-Objects ##
+
+J' ai confiance en l' avenir future
