@@ -104,3 +104,30 @@ cheval
 chevaux
 cheveu
 cheveux
+
+## Infinitive-2 ##
+
+Êtes -vous  sûr  de  vouloir  un  cheval  
+
+Je suis heureuse de vous retrouver.
+
+## Communication ## 
+
+Allô , qui  est  à  l' appareil  ?
+
+
+## Compound-Past ## 
+
+Je vous en ai déjà parlé.
+
+##   ##
+
+Enfin, je crois   finally
+
+C'est ainsi     this is how // this is so
+
+Elle  est  au-dessus  de  moi .      above me
+
+au-dessus : sur :: au-dessous : sous
+
+Dans un mois environ   about one month
