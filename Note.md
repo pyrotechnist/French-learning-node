@@ -79,3 +79,28 @@ Je suis en contact avec elle .
 ## Places  ##
 
 Le gâteau est au milieu de la table .
+
+## Date ##
+
+Pour quelle durée    for how long
+
+## Object ##
+
+des" becomes "de" in front of an adjective.
+
+
+## People ##
+
+Il y a du monde en ville
+
+Mais je devais le faire tous les jours .
+
+tous les etes, j'allais a ce restaurant
+
+
+## Irregular Plurals ##
+
+cheval
+chevaux
+cheveu
+cheveux
