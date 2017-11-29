@@ -76,6 +76,8 @@ On n'a pas à manger maintenant. — We don't have to eat right now.
 
 Je suis en contact avec elle .
 
+Allô , qui  est  à  l' appareil  ?
+
 ## Places  ##
 
 Le gâteau est au milieu de la table .
@@ -105,20 +107,39 @@ chevaux
 cheveu
 cheveux
 
+## Feelings ##
+
+Je  pense  qu' il  est  en  colère
+
+Cette  nouvelle  coupe  de  cheveux  est  une  horreur  !
+
+J'ai honte   I am ashamed.
+
+Il  a  envie  de  pleurer .
+
+## Pronouns-2 ##
+
+Où sont tous les autres ?
+
+Chacun est libre de choisir
+
+aucun  chacun
+
+## Compound-Past ##
+
+Il m'a atteint.              He reached me.
+
+Tu as dû boire de l'eau.
+
+Tes parents m'ont apprécié ?
+
+Je vous en ai déjà parlé.
+
 ## Infinitive-2 ##
 
 Êtes -vous  sûr  de  vouloir  un  cheval  
 
 Je suis heureuse de vous retrouver.
-
-## Communication ## 
-
-Allô , qui  est  à  l' appareil  ?
-
-
-## Compound-Past ## 
-
-Je vous en ai déjà parlé.
 
 ##   ##
 
