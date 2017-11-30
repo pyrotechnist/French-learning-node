@@ -29,14 +29,6 @@ de+les= des
 
 
 
-Some French expressions don't allow any preceding indirect objects, notably être à, faire attention à, s’habituer à, penser à, revenir à, and tenir à.
-
-Tu fais attention à elle. (Not Tu lui fais...) – You are paying attention to her.
-Il pense à elle. (Not Il lui pense...) – He thinks of her.
-Remember that y can also refer to locations.
-
-J'y vais. — I'm going there.
-Il y était. — He was there.
 
 Aucune d' entre elles them 
 
@@ -118,6 +110,17 @@ J'ai honte   I am ashamed.
 Il  a  envie  de  pleurer .
 
 ## Pronouns-2 ##
+
+Some French expressions don't allow any preceding indirect objects, notably être à, faire attention à, s’habituer à, penser à, revenir à, and tenir à.
+
+Tu fais attention à elle. (Not Tu lui fais...) – You are paying attention to her.
+Il pense à elle. (Not Il lui pense...) – He thinks of her.
+
+Remember that y can also refer to locations.
+
+J'y vais. — I'm going there.
+Il y était. — He was there.
+
 
 Où sont tous les autres ?
 
