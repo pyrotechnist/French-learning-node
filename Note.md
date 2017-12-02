@@ -155,3 +155,18 @@ Elle  est  au-dessus  de  moi .      above me
 au-dessus : sur :: au-dessous : sous
 
 Dans un mois environ   about one month
+
+
+## Prepositions-2 ## 
+
+cela prend entre 17 et 19 jours      That takes between seventeen and nineteen 
+
+## Verbs-Present-3 ##
+
+Nous mentons    we lie
+
+Combien je pèse ?    How much do I weigh?
+
+Il semble être riche
+
+C'est l'année de notre arrivée à Bordeaux.
