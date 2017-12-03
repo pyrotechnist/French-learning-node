@@ -170,3 +170,8 @@ Combien je pèse ?    How much do I weigh?
 Il semble être riche
 
 C'est l'année de notre arrivée à Bordeaux.
+
+## Adverbs-2 ##
+
+C'est à peu près ça.            That is about it.
+
