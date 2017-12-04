@@ -109,6 +109,10 @@ J'ai honte   I am ashamed.
 
 Il  a  envie  de  pleurer .
 
+C'est nul.              This is hopeless.
+
+Un joli sourire
+
 ## Pronouns-2 ##
 
 Some French expressions don't allow any preceding indirect objects, notably être à, faire attention à, s’habituer à, penser à, revenir à, and tenir à.
