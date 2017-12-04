@@ -30,10 +30,17 @@ fière  de     proud of
 
 obligé de   obligated to
 
+oublier de    forgot to
+
 J'ai du mal a 
 
 faire de économies   save money
-Translate
 
 me détendre to relax
+
+je n'arrive pas   i cannot
+
+joue de la 
+
+faire de 
 
