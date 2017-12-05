@@ -44,3 +44,24 @@ joue de la
 
 faire de 
 
+
+## 39 le futur proche ##
+
+arroser     water
+
+concours  competition
+
+d'après la meteo    according to the weather
+
+tomber malade   get sick
+
+rater   miss
+
+perdre     to lose
+mordre     bite
+abîmer     damage
+punir      punish
+
+
+
+
