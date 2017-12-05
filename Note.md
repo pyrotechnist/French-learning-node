@@ -179,3 +179,11 @@ C'est l'année de notre arrivée à Bordeaux.
 
 C'est à peu près ça.            That is about it.
 
+## Adjectives-4 ##
+
+Ils sont supérieurs à nous pour apprendre.     They are superior to us at learning.
+
+## Household ##
+couvert   cutlery 
+couverture    blanket
+
