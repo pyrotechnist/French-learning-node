@@ -113,6 +113,9 @@ C'est nul.              This is hopeless.
 
 Un joli sourire
 
+fais confiance a      trust
+
+
 ## Pronouns-2 ##
 
 Some French expressions don't allow any preceding indirect objects, notably être à, faire attention à, s’habituer à, penser à, revenir à, and tenir à.
@@ -182,6 +185,14 @@ C'est à peu près ça.            That is about it.
 ## Adjectives-4 ##
 
 Ils sont supérieurs à nous pour apprendre.     They are superior to us at learning.
+
+est capable de
+
+nous	sommes présents
+
+La route est trop étroite pour les voitures.
+
+Mon pantalon est étroit
 
 ## Household ##
 couvert   cutlery 
