@@ -115,6 +115,9 @@ Un joli sourire
 
 fais confiance a      trust
 
+Il sent la fatigue
+
+Je  crois  en  l' amitié
 
 ## Pronouns-2 ##
 
@@ -178,6 +181,8 @@ Il semble être riche
 
 C'est l'année de notre arrivée à Bordeaux.
 
+Il  appartient  à  mon  oncle uncle
+
 ## Adverbs-2 ##
 
 C'est à peu près ça.            That is about it.
@@ -198,3 +203,7 @@ Mon pantalon est étroit
 couvert   cutlery 
 couverture    blanket
 
+
+## Verbs-Infinitive-2## 
+
+Nous pouvons sentir le goût de la fraise dans cette boisson.
