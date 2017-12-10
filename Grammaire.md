@@ -71,3 +71,11 @@ punir      punish
 
 
 
+
+## COmmunication ##
+
+##  2 ##
+Il me faut     i need 
+
+## 3 ##
+c'est pour offrir      for gift
