@@ -1,3 +1,9 @@
+
+## 5 C'est Il est  ##
+au lieu de     instead of 
+
+comptables   accountants
+
 ## 32 Les relatifs ##
 
 Le costume que *porte Paul* est horrible
