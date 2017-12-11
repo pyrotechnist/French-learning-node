@@ -220,6 +220,12 @@ C'est l'année de notre arrivée à Bordeaux.
 
 Il  appartient  à  mon  oncle uncle
 
+je me	repose   I have a test
+
+Je  préfère  le  riz  au  pain
+
+Elle se sent bien
+
 ## Adverbs-2 ##
 
 C'est à peu près ça.            That is about it.
@@ -244,3 +250,11 @@ couverture    blanket
 ## Verbs-Infinitive-2## 
 
 Nous pouvons sentir le goût de la fraise dans cette boisson.
+
+
+## Adverbs-3 ##
+Je dors loin de vous .
+
+Loin d'ici
+
+Impossible de faire autrement
