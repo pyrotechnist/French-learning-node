@@ -148,6 +148,43 @@ Tes parents m'ont apprécié ?
 
 Je vous en ai déjà parlé.
 
+
+PARTICIPLE AGREEMENT
+
+A participle that follows avoir is usually invariable.
+
+L'homme a mangé. — The man has eaten.
+Les femmes ont mangé. — The women have eaten.
+
+However, if a Direct Object appears before avoir, its participle agrees with the DO. Below, vues agrees with the plural feminine robes because les precedes the verb.
+
+Tu as vu les robes ? — Have you seen the dresses?
+Oui, je les ai vues. — Yes, I have seen them.
+
+A participle that follows être agrees with the subject.
+
+L'homme est venu. — The man has come.
+Les hommes sont venus. — The men have come.
+La femme est venue. — The woman has come.
+Les femmes sont venues. — The women have come.
+
+However, if a pronominal verb has no DO, then the participle is invariable. For instance, compare s'appeler (transitive) to se telephoner (no DO).
+
+Nous nous sommes appelés. — We called each other. (For a masculine nous.)
+Nous nous sommes téléphoné. — We called each other. (For both genders of nous.)
+
+自反动词 les verbes pronominaux : se + être + 动词的过去分词。过去分词需与主语的性数配合。(自反动词请见文法自反动词。)
+
+Je me suis levé(e). 我起得早，Je为女性时，levé需加e成levée。 
+Tu t'es levé(e). Tu为女性时，levé需加e成levée。
+Il s'est levé.
+Elle s'est levée. Elle确定为阴性，levé加e成levée。
+Nous nous sommes levé(e)s. Nous 皆为阴性时，levé需加e成levées。
+Vous vous être levé(e)(s). Vous皆为阴性时，levé需加e成levée。为负数时须加上s成levés。为阴性复数时则加es，成levées。
+Ils se sont levés.
+Elles se sont levées.
+
+
 ## Infinitive-2 ##
 
 Êtes -vous  sûr  de  vouloir  un  cheval  
