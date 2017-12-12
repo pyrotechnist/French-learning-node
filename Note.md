@@ -258,3 +258,7 @@ Je dors loin de vous .
 Loin d'ici
 
 Impossible de faire autrement
+
+Il n' est pas lui -même aujourd'hui .   He is not himself today
+
+c'est mieux  que  rien .
