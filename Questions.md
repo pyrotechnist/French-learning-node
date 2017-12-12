@@ -14,3 +14,7 @@ Translation: Nous ne sommes pas ouverts le samedi !
 
 J'aime les vrais repas.
 elle aime les vrais repas.
+
+Ce sont de bonnes décisions .
+
+elles se sont souvenues des garcons
