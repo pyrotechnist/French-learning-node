@@ -53,6 +53,10 @@ Il fait des progrès en cuisine .
 
 Quel est ton niveau
 
+C'est très  gentil  de  ta  part .    it is very kind of you 
+
+Cela va toucher chaque partie du pays
+
 Je n' ai pas les moyens d' acheter ça
 
 *Consider the difference between "I don't have to" and "I must not". The former expresses a lack of obligation, while the latter expresses an obligation to avoid an action. In French, to express a lack of obligation, use a negation with avoir besoin de or avoir à.*
