@@ -86,6 +86,7 @@ Pour quelle durée    for how long
 
 des" becomes "de" in front of an adjective.
 
+l'homme a-t-il une arme       
 
 ## People ##
 
@@ -248,7 +249,7 @@ La route est trop étroite pour les voitures.
 
 Mon pantalon est étroit
 
-C' est  du  temps  perdu .     it is wasted time
+C' est  du  temps  perdu .     it is wasted time  / It is lost time.
 
 ## Household ##
 couvert   cutlery 
@@ -278,3 +279,8 @@ Il  arrive  à  s' enfuir .   He manages to escape.
 
 Ça  lui  a  fait  perdre  la  mémoire  mais  il  va  se  souvenir .          this made him lose the memory but he will remember
 Ça  lui  fait  perdre  la  mémoire  mais  il  va  se  souvenir .             this makes him lose the memory but he will remember
+
+## Verbs -Infinitive-3 ##
+Je  me  sens  mal , comme  vous  pouvez  le  constater .  i feel bad, as you can see
+
+We need bread   Il nous faut du pain.     nous avons besoin de pain
