@@ -123,6 +123,8 @@ Il sent la fatigue
 
 Je  crois  en  l' amitié
 
+quel caractere    what a character/temper
+
 ## Pronouns-2 ##
 
 Some French expressions don't allow any preceding indirect objects, notably être à, faire attention à, s’habituer à, penser à, revenir à, and tenir à.
@@ -246,6 +248,8 @@ La route est trop étroite pour les voitures.
 
 Mon pantalon est étroit
 
+C' est  du  temps  perdu .     it is wasted time
+
 ## Household ##
 couvert   cutlery 
 couverture    blanket
@@ -266,3 +270,11 @@ Impossible de faire autrement
 Il n' est pas lui -même aujourd'hui .   He is not himself today
 
 c'est mieux  que  rien .
+
+
+## Reflexive-Verbs ## 
+
+Il  arrive  à  s' enfuir .   He manages to escape.
+
+Ça  lui  a  fait  perdre  la  mémoire  mais  il  va  se  souvenir .          this made him lose the memory but he will remember
+Ça  lui  fait  perdre  la  mémoire  mais  il  va  se  souvenir .             this makes him lose the memory but he will remember
