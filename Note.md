@@ -144,6 +144,8 @@ quel caractere    what a character/temper
 couvert   cutlery 
 couverture    blanket
 
+Il est à son bureau .
+
 
 ## Infinitive-2 ##
 
@@ -234,6 +236,8 @@ Nous pouvons sentir le goût de la fraise dans cette boisson.
 Je  me  sens  mal , comme  vous  pouvez  le  constater .  i feel bad, as you can see
 
 We need bread   Il nous faut du pain.     nous avons besoin de pain
+
+J' aime  bien  réfléchir  avant  d' agir .    I like to think before acting.
 
 ## Verbs-Present-3 ##
 
