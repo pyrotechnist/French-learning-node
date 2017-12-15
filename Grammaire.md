@@ -4,6 +4,11 @@ au lieu de     instead of
 
 comptables   accountants
 
+## 15 Les indefinis ##
+
+Je n'ai pas le temp de ....                    
+je n'ai pas de temp pour
+
 ## 32 Les relatifs ##
 
 Le costume que *porte Paul* est horrible
