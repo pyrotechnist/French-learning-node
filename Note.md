@@ -239,6 +239,19 @@ We need bread   Il nous faut du pain.     nous avons besoin de pain
 
 J' aime  bien  réfléchir  avant  d' agir .    I like to think before acting.
 
+
+Impersonal Expressions
+When you use the impersonal construction il est + adjective + de, keep in mind that il must be a dummy subject. If it's a real subject, you must use à instead of de.
+
+Il est impossible de vivre sur cette île. — It is impossible to live on that island.
+Il est facile de comprendre le livre. — It is easy to understand the book.
+Ce problème est difficile à résoudre. — That problem is difficult to solve.
+Écrire un livre ? Il est difficile à faire. — Writing a book? It is difficult to do.
+In informal usage, c'est can replace the impersonal il est.
+
+C'est difficile de terminer ce travail en une journée. — It's hard to finish that work in one day.
+C'est mieux d'éviter cette zone. — It's better to avoid that area.
+
 ## Verbs-Present-3 ##
 
 Nous mentons    we lie
@@ -256,6 +269,8 @@ je me	repose   I have a test
 Je  préfère  le  riz  au  pain
 
 Elle se sent bien
+
+
 
 
 ##  others ## 
