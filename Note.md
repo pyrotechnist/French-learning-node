@@ -65,8 +65,10 @@ Je suis en contact avec elle .
 
 Allô , qui  est  à  l' appareil  ?
 
+C'est le début d'une nouvelle carrière.
 
-
+Il a mis fin à la conversation        He ended the conversation.
+ 
 ## Compound-Past ##
 
 Il m'a atteint.              He reached me.
