@@ -42,6 +42,8 @@ Mon pantalon est étroit
 
 C' est  du  temps  perdu .     it is wasted time  / It is lost time.
 
+En plein hiver!               in the middle of winter
+
 ## Adverbs-2 ##
 
 C'est à peu près ça.            That is about it.
