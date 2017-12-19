@@ -226,6 +226,13 @@ Dans un mois environ   about one month
 
 cela prend entre 17 et 19 jours      That takes between seventeen and nineteen 
 
+## Prepositions-3 ## 
+
+je vais jusque chez elle      
+We have locked onto the idea that "jusque" is always just "up to" or "as far as", and it does include those terms, but it is also used simply as "to", as in "I'm going to her place." 
+
+C'est au-dessus de mes forces       it is beyond  me 
+
 
 ## Reflexive-Verbs ## 
 
@@ -237,6 +244,8 @@ Il  arrive  à  s' enfuir .   He manages to escape.
 ## Verbs-Infinitive-2## 
 
 Nous pouvons sentir le goût de la fraise dans cette boisson.
+
+s'occuper de    to take care of
 
 
 ## Verbs -Infinitive-3 ##
