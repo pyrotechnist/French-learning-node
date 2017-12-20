@@ -28,6 +28,18 @@ On n'a pas à manger maintenant. — We don't have to eat right now.
 *To express "must not" in French, use a negation with devoir or il faut.*
 
 
+## Abstract-Objects 3 ##
+
+Êtes -vous pour ou contre cette proposition ?
+
+Il he it est sous le choc .      he is in shock
+
+Son accès est gratuit
+
+La porte donne accès au jardin .
+
+Cette émission n' existe plus .
+
 ## Adjectives-4 ##
 
 Ils sont supérieurs à nous pour apprendre.     They are superior to us at learning.
@@ -59,7 +71,7 @@ Il n' est pas lui -même aujourd'hui .   He is not himself today
 
 c'est mieux  que  rien .
 
-
+ma maison est proche/ tres pres
 
 ## Communication  ##
 
