@@ -167,6 +167,9 @@ J'aime son humour                 I loved his humor
 
 bonheur                            happiness
 
+honneur                           honor
+ 
+
 
 ## Household ##
 couvert   cutlery 
