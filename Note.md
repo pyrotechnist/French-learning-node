@@ -40,6 +40,10 @@ La porte donne accès au jardin .
 
 Cette émission n' existe plus .
 
+se	trouve     is located
+
+C' est comme la relation d' un garçon et son père .
+
 ## Adjectives-4 ##
 
 Ils sont supérieurs à nous pour apprendre.     They are superior to us at learning.
@@ -156,6 +160,14 @@ Je  crois  en  l' amitié
 
 quel caractere    what a character/temper
 
+
+Je suis de bonne humeur.           I am in a good mood.
+
+J'aime son humour                 I loved his humor
+
+bonheur                            happiness
+
+
 ## Household ##
 couvert   cutlery 
 couverture    blanket
@@ -176,6 +188,9 @@ chevaux
 cheveu
 cheveux
 
+## nature ## 
+
+L'eau de source            spring water
 
 ## Object ##
 
@@ -219,7 +234,7 @@ Chacun est libre de choisir
 
 aucun  chacun
 
-
+elle parle toute seule   She talks to herself
 
 ##   ##
 
