@@ -191,6 +191,11 @@ chevaux
 cheveu
 cheveux
 
+## Materials ##
+Le plastique est fait à partir du pétrole .      Plastic is made from oil
+
+à partir du     from
+
 ## nature ## 
 
 L'eau de source            spring water
