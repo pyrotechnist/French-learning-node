@@ -292,6 +292,10 @@ Nous pouvons sentir le goût de la fraise dans cette boisson.
 s'occuper de    to take care of
 
 
+J'ai bien peur de devoir partir maintenant.        I am afraid I have to leave now.
+
+Merci de me laisser tranquille !         Thank you for leaving me alone!
+
 ## Verbs -Infinitive-3 ##
 Je  me  sens  mal , comme  vous  pouvez  le  constater .  i feel bad, as you can see
 
