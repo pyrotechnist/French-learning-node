@@ -138,6 +138,9 @@ Elles se sont levées.
 
 Pour quelle durée    for how long
 
+## Directions ## 
+c'est une ville au nord   It is a town in the north.
+
 ## Feelings ##
 
 Je  pense  qu' il  est  en  colère
@@ -169,6 +172,10 @@ bonheur                            happiness
 
 honneur                           honor
  
+## Verbs Future ## 
+pour	toujours       forever
+
+Ils finiront leurs their theirs verres .     They will finish their drinks.
 
 
 ## Household ##
@@ -195,6 +202,8 @@ cheveux
 Le plastique est fait à partir du pétrole .      Plastic is made from oil
 
 à partir du     from
+
+ça m' est égal       I do not care
 
 ## nature ## 
 
@@ -322,7 +331,11 @@ Je  préfère  le  riz  au  pain
 Elle se sent bien
 
 
+## Weights-and-Measurements ##
 
+Il a pris du poids a pris du poids           (he/she) gained weight
+
+Elle a perdu du poids .
 
 ##  others ## 
 
