@@ -22,3 +22,12 @@ elles se sont souvenues des garcons
 je ne suis pas sur que j'aie amie son idee
 
 qu'est ce qu'il y a en dessous de ton bureau
+
+
+Est-ce que c'est ça la justice ?
+
+Vous n'avez qu'à éviter les problèmes.
+
+Il pense l'avoir aimée avec passion.
+
+À éviter après les repas !
