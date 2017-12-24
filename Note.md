@@ -228,6 +228,11 @@ tous les etes, j'allais a ce restaurant
 
 Le gâteau est au milieu de la table .
 
+## Politics ##
+
+Est-ce que c'est ça la justice ?
+
+
 ## Prepositions-3 ##
 
 C' est au dessus de mes forces    it's beyond me
@@ -291,10 +296,13 @@ Nous pouvons sentir le goût de la fraise dans cette boisson.
 
 s'occuper de    to take care of
 
-
 J'ai bien peur de devoir partir maintenant.        I am afraid I have to leave now.
 
 Merci de me laisser tranquille !         Thank you for leaving me alone!
+
+Je suis heureuse de to with about vous retrouver .     I'm happy to meet you again 
+
+Rendre une femme heureuse
 
 ## Verbs -Infinitive-3 ##
 Je  me  sens  mal , comme  vous  pouvez  le  constater .  i feel bad, as you can see
