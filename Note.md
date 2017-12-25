@@ -232,6 +232,8 @@ Le gâteau est au milieu de la table .
 
 Est-ce que c'est ça la justice ?
 
+de plus en plus             more and more / ever
+
 
 ## Prepositions-3 ##
 
