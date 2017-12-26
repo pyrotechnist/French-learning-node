@@ -15,6 +15,11 @@ Quel est ton niveau
 
 C'est très  gentil  de  ta  part .    it is very kind of you 
 
+
+est ce dans notre interet      Is it in our interest?
+
+Quel est l'intérêt pour moi ?      What is the interest for me ?
+
 Cela va toucher chaque partie du pays
 
 Je n' ai pas les moyens d' acheter ça
@@ -27,6 +32,15 @@ Elle n'a pas à parler. — She doesn't have to speak.
 On n'a pas à manger maintenant. — We don't have to eat right now.
 *To express "must not" in French, use a negation with devoir or il faut.*
 
+
+
+## Abstract-Objects 2 ##
+
+preuve        evidence
+prévue        expected
+
+
+On sort le matériel.     We take the equipment out.
 
 ## Abstract-Objects 3 ##
 
@@ -205,6 +219,11 @@ Le plastique est fait à partir du pétrole .      Plastic is made from oil
 
 ça m' est égal       I do not care
 
+
+## Medical  ##
+
+Ses oreilles lui font mal.                 His ears hurt.
+
 ## nature ## 
 
 L'eau de source            spring water
@@ -233,6 +252,9 @@ Le gâteau est au milieu de la table .
 Est-ce que c'est ça la justice ?
 
 de plus en plus             more and more / ever
+
+mairie              city hall 
+maire               mayor
 
 
 ## Prepositions-3 ##
