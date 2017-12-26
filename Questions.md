@@ -31,3 +31,6 @@ Vous n'avez qu'à éviter les problèmes.
 Il pense l'avoir aimée avec passion.
 
 À éviter après les repas !
+
+ 
+Ses oreilles lui font mal.     ??? Il a mal aux oreilles
