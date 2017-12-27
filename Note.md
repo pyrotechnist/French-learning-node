@@ -314,6 +314,14 @@ Il  arrive  à  s' enfuir .   He manages to escape.
 Ça  lui  a  fait  perdre  la  mémoire  mais  il  va  se  souvenir .          this made him lose the memory but he will remember
 Ça  lui  fait  perdre  la  mémoire  mais  il  va  se  souvenir .             this makes him lose the memory but he will remember
 
+
+
+
+## Verbs-Compound-Past-2 ##
+
+atteinte       reached
+
+
 ## Verbs-Infinitive-2## 
 
 Nous pouvons sentir le goût de la fraise dans cette boisson.
