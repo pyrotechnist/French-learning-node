@@ -155,6 +155,11 @@ Pour quelle durée    for how long
 ## Directions ## 
 c'est une ville au nord   It is a town in the north.
 
+
+## Education ##
+
+Il va dans deux universités    He is going to two universities.
+
 ## Feelings ##
 
 Je  pense  qu' il  est  en  colère
