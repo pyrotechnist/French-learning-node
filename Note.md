@@ -373,6 +373,10 @@ Il a pris du poids a pris du poids           (he/she) gained weight
 
 Elle a perdu du poids .
 
+L'île fait environ cinq kilomètres de long et deux de large.           The island is about five kilometers long and two wide.
+
+Il dort les deux tiers du temps.     He sleeps two-thirds of the time.
+
 ##  others ## 
 
 DEMONSTRATIVE PRONOUN + RELATIVE PRONOUN
