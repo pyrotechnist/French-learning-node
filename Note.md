@@ -24,6 +24,8 @@ Cela va toucher chaque partie du pays
 
 Je n' ai pas les moyens d' acheter ça
 
+À ton avenir    to your future
+
 *Consider the difference between "I don't have to" and "I must not". The former expresses a lack of obligation, while the latter expresses an obligation to avoid an action. In French, to express a lack of obligation, use a negation with avoir besoin de or avoir à.*
 
 Je n'ai pas besoin d'un stylo. — I don't need a pen.
@@ -31,6 +33,8 @@ Nous n'avons pas besoin de votre permission ! — We don't need your permission!
 Elle n'a pas à parler. — She doesn't have to speak.
 On n'a pas à manger maintenant. — We don't have to eat right now.
 *To express "must not" in French, use a negation with devoir or il faut.*
+
+The possessive before a singular feminine noun is usually "ma", "ta", "sa" ("my", "you", "his/her"). For example: "Sa voiture est rouge" = "His/Her car is red."). But when the possessive is placed before a singular feminine word starting with a vowel (ex: "ombre"), then you have to use the "masculine" form. For example: "Son ombre" (His/Her shadow), "Ton amie" (Your friend), "Mon ancienne maison" (My former house).
 
 
 
