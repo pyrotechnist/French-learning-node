@@ -155,11 +155,6 @@ Pour quelle durée    for how long
 ## Directions ## 
 c'est une ville au nord   It is a town in the north.
 
-
-## Education ##
-
-Il va dans deux universités    He is going to two universities.
-
 ## Feelings ##
 
 Je  pense  qu' il  est  en  colère
@@ -320,11 +315,9 @@ Il  arrive  à  s' enfuir .   He manages to escape.
 Ça  lui  fait  perdre  la  mémoire  mais  il  va  se  souvenir .             this makes him lose the memory but he will remember
 
 
+## Verbs-Subjunctive-Present ##
 
-
-## Verbs-Compound-Past-2 ##
-
-atteinte       reached
+il	faut	qu'	il   he must
 
 
 ## Verbs-Infinitive-2## 
