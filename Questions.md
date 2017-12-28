@@ -34,3 +34,5 @@ Il pense l'avoir aimée avec passion.
 
  
 Ses oreilles lui font mal.     ??? Il a mal aux oreilles
+
+je vais m'en occuper  I am going to take care of it .
