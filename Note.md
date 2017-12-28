@@ -320,6 +320,16 @@ Il  arrive  à  s' enfuir .   He manages to escape.
 il	faut	qu'	il   he must
 
 
+## Verbs-Imperative ##
+
+Choisis-en un   Choose one of them.
+
+Ne sois pas triste   don't be sad
+
+Courez  aussi vite que possible !
+
+Prends soin de toi .   Take care of yourself.
+
 ## Verbs-Infinitive-2## 
 
 Nous pouvons sentir le goût de la fraise dans cette boisson.
