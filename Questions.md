@@ -39,3 +39,23 @@ je vais m'en occuper  I am going to take care of it .
 
 en-dessous de,
 au-dessus de
+
+----------------------------------------------------------------
+
+Ce sont les lunettes que je vous ai données.
+
+DEMONSTRATIVE PRONOUN + PREPOSITION
+The preposition de can appear after the demonstrative pronoun to indicate possession.
+
+À qui est cette balle ? – Whose ball is this?
+C'est celle du chien. — It's the dog's. (Literally: "It is the one of the dog.")
+
+
+Ce tableau est moins beau que celui de Rembrandt. — This painting is less beautiful than the one by Rembrandt.
+Quelle robe préfères-tu ? Celle de Paris ou celle de Tokyo ? — Which dress do you prefer? The one from Paris or the one from Tokyo?
+They can also be used within prepositional phrases.
+
+Je pense à celles qui sont en vacances. — I am thinking about the ones who are on vacation.
+Ce repas est pour ceux qui aiment les oignons. — This meal is for those who like onions.
+
+---------------------------------------------------------------------------
