@@ -15,6 +15,9 @@ Quel est ton niveau
 
 C'est très  gentil  de  ta  part .    it is very kind of you 
 
+Tu n'en as pas besoin, et nous non plus.   You do not need it, and neither do we.
+
+Quel est le rapport avec moi ?    What is the relationship with me?
 
 est ce dans notre interet      Is it in our interest?
 
@@ -318,6 +321,10 @@ Il  arrive  à  s' enfuir .   He manages to escape.
 Ça  lui  a  fait  perdre  la  mémoire  mais  il  va  se  souvenir .          this made him lose the memory but he will remember
 Ça  lui  fait  perdre  la  mémoire  mais  il  va  se  souvenir .             this makes him lose the memory but he will remember
 
+
+## Sports ##
+
+Notre fille fait de la danse .      our girl takes dance lessons
 
 ## Verbs-Subjunctive-Present ##
 
