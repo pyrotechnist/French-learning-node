@@ -63,3 +63,5 @@ j'ai plus de batterie
 
 
 Les filles vont en discothèque.
+
+difficile / dur
