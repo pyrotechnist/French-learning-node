@@ -162,6 +162,10 @@ Pour quelle durée    for how long
 ## Directions ## 
 c'est une ville au nord   It is a town in the north.
 
+
+## Economics ## 
+Elle fait un voyage d' affaires .    She makes a business trip
+
 ## Feelings ##
 
 Je  pense  qu' il  est  en  colère
