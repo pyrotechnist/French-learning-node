@@ -281,6 +281,7 @@ Il pense à elle. (Not Il lui pense...) – He thinks of her.
 
 Remember that y can also refer to locations.
 
+Je m'envais   ???
 J'y vais. — I'm going there.
 Il y était. — He was there.
 
@@ -292,6 +293,8 @@ Chacun est libre de choisir
 aucun  chacun
 
 elle parle toute seule   She talks to herself
+
+
 
 ##   ##
 
