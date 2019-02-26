@@ -66,6 +66,12 @@ se	trouve     is located
 C' est comme la relation d' un garçon et son père .
 
 ## Adjectives-4 ##
+The meaning changes with the position of the adjective :
+
+un simple chapeau : "simply/barely/just a hat"
+un chapeau simple : "a simple/plain/ordinary hat"
+
+## Adjectives-4 ##
 
 Ils sont supérieurs à nous pour apprendre.     They are superior to us at learning.
 
