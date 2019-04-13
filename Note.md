@@ -203,11 +203,11 @@ bonheur                            happiness
 
 honneur                           honor
  
-## Verbs Future ## 
-pour	toujours       forever
 
-Ils finiront leurs their theirs verres .     They will finish their drinks.
+## Going out ##
 
+Ça te dit d’aller au resto ce soir ?
+what about going to a restaurant tonight
 
 ## Household ##
 couvert   cutlery 
@@ -338,6 +338,12 @@ Il  arrive  à  s' enfuir .   He manages to escape.
 ## Sports ##
 
 Notre fille fait de la danse .      our girl takes dance lessons
+
+## Verbs Future ## 
+pour	toujours       forever
+
+Ils finiront leurs their theirs verres .     They will finish their drinks.
+
 
 ## Verbs-Subjunctive-Present ##
 
