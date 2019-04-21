@@ -104,6 +104,11 @@ c'est mieux  que  rien .
 
 ma maison est proche/ tres pres
 
+
+## At-Work--3 ##
+
+Je pars dans une heure.      i'm leaving in one hour
+
 ## Communication  ##
 
 Je suis en contact avec elle .
@@ -250,6 +255,11 @@ L'eau de source            spring water
 des" becomes "de" in front of an adjective.
 
 l'homme a-t-il une arme       
+
+## Opinion ##
+
+Tu connais ce tableau (painting)
+ 
 
 ## People ##
 
