@@ -107,6 +107,10 @@ ma maison est proche/ tres pres
 
 ## At-Work--3 ##
 
+Ils partent du travail à l' heure .
+
+Il ne répond jamais au téléphone .       
+
 Je pars dans une heure.      i'm leaving in one hour
 
 ## Communication  ##
@@ -245,6 +249,10 @@ Le plastique est fait à partir du pétrole .      Plastic is made from oil
 ## Medical  ##
 
 Ses oreilles lui font mal.                 His ears hurt.
+
+## Memories ##
+
+en mille neuf cent soixante-dix     in nineteen seventy
 
 ## nature ## 
 
