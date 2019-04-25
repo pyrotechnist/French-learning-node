@@ -353,6 +353,9 @@ Il  arrive  à  s' enfuir .   He manages to escape.
 Ça  lui  fait  perdre  la  mémoire  mais  il  va  se  souvenir .             this makes him lose the memory but he will remember
 
 
+## School 2 ##
+Ce mot word note veut dire quoi ?           What does this word mean? 
+
 ## Sports ##
 
 Notre fille fait de la danse .      our girl takes dance lessons
