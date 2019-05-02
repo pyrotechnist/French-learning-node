@@ -353,6 +353,14 @@ Il  arrive  à  s' enfuir .   He manages to escape.
 Ça  lui  fait  perdre  la  mémoire  mais  il  va  se  souvenir .             this makes him lose the memory but he will remember
 
 
+## Requests ##
+
+Il y aura beaucoup de retards à cause de la pluie .
+
+Vous devriez arriver exactement à l' heure .          should 
+
+Il faudrait changer vos habitudes .
+
 ## School 2 ##
 Ce mot word note veut dire quoi ?           What does this word mean? 
 
