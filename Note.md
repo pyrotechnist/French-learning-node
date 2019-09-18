@@ -473,8 +473,11 @@ Elle est au centre du village.    It is in the center of the village.
 Nous nous tournons en direction du nord.    We are turning north.
 
 不定冠词单数阳性 un  单数阴性 une  复数（不分阴阳性）des
+
 定冠词 单数阳性 le  单数阴性 la    复数（不分阴阳性）les
+
 部分冠词 阳性 du  阴性 de la  复数  des
+
 缩合冠词，是指当介词 de 或者 à 通常遇到后面的定冠词时经两个词合并成一个词：
 de+le= du   
 de+les= des
@@ -482,8 +485,6 @@ de+les= des
 à+ les = aux
 
 至于你所说到的  du fromage 中的du 是部分冠词，因为在法语中往往针于某些吃的东西，表示吃时候往往用部分冠词，因为，你所吃的比如说奶酪，你只能吃所有奶酪中的一部分而以。
-
-
 
 
 Aucune d' entre elles them 
